@@ -45,9 +45,9 @@
     },
 
     "extra": {
-        "branch-alias": {
-            "master": "0.1"
-        },
+//        "branch-alias": {
+//            "master": "0.1"
+//        },
         "laravel": {
             "providers": [
                "PragmaRX\\Tracker\\Vendor\\Laravel\\ServiceProvider"
